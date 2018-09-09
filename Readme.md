@@ -8,7 +8,7 @@ This dataset contains the following files:
 
 *  [date(ex. 20170203,20170206,...]	: date
     *  [date]/[raw]/*csv			: action data files obtained a far-infrared sensor array
-    *  [date]/[video]/*mp4			: action data files obtained visible-light camera (for reference) (x265 format)
+    *  [date]/[video]/*mp4			: action data files obtained visible-light camera (for reference) (h264 format; not provided yet)
     *  [annotation]/*csv			: annotation files 
 
 

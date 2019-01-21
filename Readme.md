@@ -17,12 +17,12 @@ This dataset contains the following files:
 Please cite these papers in your publications if it helps your research
 
     @inproceedings{kawashima2017,
-        author = {T. Kawashima and Y. Kawanishi and I. Ide and H. Murase and D. Deguchi and T. Aizawa and M. Kawade},
-        booktitle = {Proceedings of the 14th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)},
+        author = {Takayuki Kawashima and Yasutomo Kawanishi and Ichiro Ide and Hiroshi Murase and Daisuke Deguchi and Tomoyoshi Aizawa and Masato Kawade},
+        booktitle = {Proceedings of the 14th IEEE International Conference on Advanced Video and Signal Based Surveillance},
         title = {Action recognition from extremely low-resolution thermal image sequence},
         year = {2017},
-        pages = {1-6},
-        month={Aug.}
+        pages = {1--6},
+        month=aug
     }
 
 

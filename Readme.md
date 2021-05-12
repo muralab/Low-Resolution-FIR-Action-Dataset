@@ -39,8 +39,11 @@ Contact:
 
     Yasutomo Kawanishi
 
-    Assistant Professor
+    Visiting Associate Professor
     Graduate School of Informatics, 
     Nagoya University, Nagoya, Japan
-
+    
+    Team Leader
+    Multimodal Data Recognition Research Team
+    RIKEN Guardian Robot Project, Japan
 ----------------------------------------

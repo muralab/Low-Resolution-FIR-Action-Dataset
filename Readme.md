@@ -32,7 +32,7 @@ This dataset is licensed by CC BY-NC-SA 4.0.
 
 ## Contact
 
-If you have comments and questions, please feel free to send e-mail to [Yasutomo Kawanishi](http://www.murase.is.i.nagoya-u.ac.jp/~kawanishiy/en/).
+If you have comments and questions, please feel free to send e-mail to [Yasutomo Kawanishi](https://yasutomo57jp.github.io/en/).
 
 ----------------------------------------
 Contact:
